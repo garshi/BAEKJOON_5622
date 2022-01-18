@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\COMPUTER\Desktop\BAEKJOON_5622\Project1\소스.cpp(35,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\COMPUTER\Desktop\BAEKJOON_5622\Project1\소스.cpp(29,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\COMPUTER\Desktop\BAEKJOON_5622\Project1\Debug\Project1.exe
